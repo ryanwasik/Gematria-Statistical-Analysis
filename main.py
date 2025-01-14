@@ -1,4 +1,4 @@
-"""Gematria Statistics - written by Ryan Wasik"""
+"""Gematria Statistics - written by Ryan"""
 # computing
 import string
 from collections import Counter
